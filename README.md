@@ -2,6 +2,10 @@
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 # References
+
+- [skills](https://skills.sh/)
+- [agentskills](https://agentskills.io/home)
+
 ## 8.04.2026
 ### YouTube
 - [Agent Skills Deep Dive](https://www.youtube.com/watch?v=_sInr_MjGvw)
