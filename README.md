@@ -13,5 +13,5 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 ### Github repos
 - [anthropics/skills](https://github.com/Aboruhen/skills)
 - [gsd-build/get-shit-done](https://github.com/Aboruhen/get-shit-done)
-- [affaan-m/everything-claude-code](https://github.com/Aboruhen/everything-claude-code)
+- Antropic HACKATHON winner[affaan-m/everything-claude-code](https://github.com/Aboruhen/everything-claude-code)
 - [mentor-wizard-webapp](https://github.com/Mentor-Wizard/mentor-wizard-webapp)
